@@ -29,6 +29,8 @@
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a>
 </p>
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ronnygunawan&" alt="ronnygunawan" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ronnygunawan&show_icons=true&locale=en" alt="ronnygunawan" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnygunawan&show_icons=true&locale=en&layout=compact" alt="ronnygunawan" /></p>
 
 <p align="center">🌱 I’m currently learning <b>Java</b></p>
